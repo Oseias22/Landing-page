@@ -8,7 +8,7 @@
 }
 :root{
     --red:#d63a25;
-    --white:#fff;
+    --white:#f1e3e3;
     --dark:#020008;
     --green:#00ff00
 }
@@ -22,7 +22,7 @@ body{
     align-items: center;
     justify-content: space-between;
     padding: 18px 40px;
-    box-shadow: 0 0.1rem 0.5rem #ccc;
+    box-shadow: 0 0.1rem 0.5rem #5c4c4c;
     width: 100%;
     background: var(--white);
     transition: all 0.5s;
