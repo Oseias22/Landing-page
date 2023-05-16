@@ -1,3 +1,3 @@
-# Landing-page
-<li>Interface simples, direta e de fácil navegação.</li>
-<li>Projeto responsivo para smartphone.</li>
+# Landing-page 
+
+<li>Neste projeto eu desenvolvi uma Landing page responsiva podendo ser utilizado também em smartphone, foi criado com as linguagens html, css e JS</li>
